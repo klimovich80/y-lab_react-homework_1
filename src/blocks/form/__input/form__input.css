@@ -1,9 +1,16 @@
 .form__input{
     margin: 0;
-    padding: 0;
+    padding: 0 7px;
     font-size: 1rem;
     font-weight: 500;
     line-height: 1.5;
     border: none;
-    border-bottom: 1px solid var(--button-color);
+    border-bottom: 2px solid var(--input-border-color);
+    min-height: 40px;
+}
+
+.form__input:focus{
+   outline: none;
+   background-color: var(--background-color);
+   border-bottom: 2px solid var(--button-color);
 }
