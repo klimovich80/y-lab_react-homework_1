@@ -10,7 +10,7 @@
 }
 
 .form__input:focus{
-   outline: none;
-   background-color: var(--background-color);
-   border-bottom: 2px solid var(--button-color);
+    outline: none;
+    background-color: var(--background-color);
+    border-bottom: 2px solid var(--button-color);
 }
