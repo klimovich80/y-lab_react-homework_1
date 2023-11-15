@@ -1,0 +1,8 @@
+.authentication__title{
+    margin: 0;
+    padding: 0 0 26px;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 1.2;
+    color: var(--text-color);
+}

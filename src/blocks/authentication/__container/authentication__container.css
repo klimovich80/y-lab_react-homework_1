@@ -1,0 +1,13 @@
+.authentication__container {
+    margin: 0 auto;
+    padding: 77px 55px 33px;
+    max-width: 358px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--form-color);
+    border-radius: 10px;
+    height: 75vh;
+    box-shadow: 0 5px 10px 0 var(--form-shadow);
+}
